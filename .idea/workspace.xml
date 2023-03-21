@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0265a035-f118-4627-b142-0f38e9341719" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/footer/info/Info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/footer/info/css/Info.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/footer/info/info.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/footer/sife/Sife.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/footer/sife/css/sife.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/footer/sife/side.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/footer/stay/Stay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/footer/stay/css/Stay.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/footer/utility/Utility.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/footer/utility/css/Utility.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/mainEight/eight.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/mainOne/MainOne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/mainOne/css/main.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/mainOne/mainLeft/Left.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/mainOne/mainLeft/css/mainOne.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/mainOne/mainRight/Right.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/mainOne/mainRight/css/right.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/mainSix/left/leftInfo.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/mainTen/ten.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/mainThree/MainThree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/components/mainThree/css/three.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/header/IMAGE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/header/faceb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/header/insta.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/header/twit.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainOne/bottomSp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainOne/mainOneBottom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainOne/mainOneUp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainOne/upSp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainThree/IMAGE(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainThree/IMAGE(10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainThree/IMAGE(11).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainThree/IMAGE(2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainThree/IMAGE(3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainThree/IMAGE(4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainThree/IMAGE(5).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainThree/IMAGE(6).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainThree/IMAGE(7).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainThree/IMAGE(8).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../doma/maket_r/src/media/mainThree/IMAGE(9).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/transitionPage/Transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/transitionPage/css/Transition.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/fifthPage/Fifth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/fifthPage/css/Fifth.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/firstPage/First.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/firstPage/css/First.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/fourthPage/Fourth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/fourthPage/css/Fouth.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/secondPage/Second.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/secondPage/css/Second.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/thirdPage/Third.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../month_5/redux1/src/components/navBar/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../month_5/redux1/src/pages/blocksPage/BlocksPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../month_5/redux1/src/pages/loginPage/LoginPage.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NE6hI0QXxg6EfdyAF5TWIUZvJM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0265a035-f118-4627-b142-0f38e9341719" name="Changes" comment="" />
+      <created>1679217012390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679217012390</updated>
+      <workItem from="1679217017900" duration="8351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.js</url>
+          <line>22</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
